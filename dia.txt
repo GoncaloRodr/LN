@@ -1,0 +1,70 @@
+0 1 eps um
+0 1 eps dois
+0 1 eps tres
+0 1 eps quatro
+0 1 eps cinco
+0 1 eps seis
+0 1 eps sete
+0 1 eps oito
+0 1 eps nove
+0 2 1 eps
+0 3 0 eps
+0 4 vinte eps
+0 4 trinta eps
+0 4 quarenta eps
+0 4 cinquenta eps
+0 4 sessenta eps
+0 4 setenta eps
+0 4 oitenta eps
+0 4 noventa eps
+
+1 5 1 eps
+1 5 2 eps
+1 5 3 eps
+1 5 4 eps
+1 5 5 eps
+1 5 6 eps
+1 5 7 eps
+1 5 8 eps
+1 5 9 eps
+
+2 5 eps um
+2 5 0 dez
+2 5 1 onze
+2 5 2 doze
+2 5 3 treze
+2 5 4 catorze
+2 5 5 quinze
+2 5 6 dezasseis
+2 5 7 dezassete
+2 5 8 dezoito
+2 5 9 dezanove
+
+3 5 1 um
+3 5 2 dois
+3 5 3 tres
+3 5 4 quatro
+3 5 5 cinco
+3 5 6 seis
+3 5 7 sete
+3 5 8 oito
+3 5 9 nove
+
+4 3 2 e
+4 3 3 e
+4 3 4 e
+4 3 5 e
+4 3 6 e
+4 3 7 e
+4 3 8 e
+4 3 9 e
+
+5
+
+
+
+
+
+
+
+
